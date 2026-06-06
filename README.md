@@ -53,3 +53,10 @@ GitHub Flow là quy trình làm việc gồm các bước:
 6. Review và merge vào main
 
 Quy trình này giúp nhóm làm việc an toàn hơn, tránh sửa trực tiếp trên nhánh chính.
+## 6. Branch đã thực hành
+
+Các branch đã tạo:
+
+- feature/update-readme
+- feature/add-git-command-list
+- practice/conflict-demo
