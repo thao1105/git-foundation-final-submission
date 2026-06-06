@@ -60,3 +60,11 @@ Các branch đã tạo:
 - feature/update-readme
 - feature/add-git-command-list
 - practice/conflict-demo
+## 7. Pull request đã thực hành
+
+Pull request dùng để đề xuất thay đổi trước khi merge vào nhánh main.
+
+Các pull request đã tạo:
+
+1. Pull request cập nhật README
+2. Pull request thực hành conflict hoặc Git command list
