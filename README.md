@@ -98,3 +98,11 @@ Khi đưa code lên GitHub, em cần lưu ý:
 - Không đưa file `.env` chứa thông tin nhạy cảm lên GitHub
 - Sử dụng `.gitignore` để loại bỏ file không cần thiết
 - Kiểm tra kỹ thay đổi trước khi commit
+
+## 11. Tôi sẽ dùng Git như thế nào khi Vibe Code với AI?
+
+Khi Vibe Code với AI, em sẽ không sửa trực tiếp trên nhánh main.
+
+Em sẽ tạo branch riêng cho từng tính năng hoặc từng thử nghiệm. Sau khi AI sinh code, em sẽ kiểm tra lại code, chạy thử, commit từng bước rõ ràng và tạo pull request trước khi merge.
+
+Nếu AI sinh code lỗi hoặc làm hỏng project, em có thể dùng Git để xem lịch sử thay đổi và revert về trạng thái ổn định.
