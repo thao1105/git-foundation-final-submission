@@ -88,3 +88,13 @@ Lệnh đã dùng:
 ```bash
 git revert <commit-id>
 ```
+
+## 10. Nguyên tắc bảo mật khi dùng GitHub
+
+Khi đưa code lên GitHub, em cần lưu ý:
+
+- Không push mật khẩu lên GitHub
+- Không push API key hoặc token
+- Không đưa file `.env` chứa thông tin nhạy cảm lên GitHub
+- Sử dụng `.gitignore` để loại bỏ file không cần thiết
+- Kiểm tra kỹ thay đổi trước khi commit
