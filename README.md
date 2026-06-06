@@ -118,3 +118,5 @@ Em tạo branch mới để thực hành tạo pull request trên GitHub.
 ## Pull Request Practice 2
 
 Em tạo pull request thứ hai để thực hành quy trình làm việc với branch và pull request trên GitHub.
+
+Conflict practice line: This line is from main branch.
