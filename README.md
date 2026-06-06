@@ -79,3 +79,11 @@ Cách xử lý:
 3. Chọn nội dung đúng cần giữ lại
 4. Xóa các ký hiệu conflict như <<<<<<<, =======, >>>>>>>
 5. Commit lại sau khi xử lý
+## 9. Tình huống rollback/revert
+
+Em đã thực hành revert khi một thay đổi làm sai nội dung README.
+
+Lệnh đã dùng:
+
+```bash
+git revert <commit-id>
