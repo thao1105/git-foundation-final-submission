@@ -106,3 +106,7 @@ Khi Vibe Code với AI, em sẽ không sửa trực tiếp trên nhánh main.
 Em sẽ tạo branch riêng cho từng tính năng hoặc từng thử nghiệm. Sau khi AI sinh code, em sẽ kiểm tra lại code, chạy thử, commit từng bước rõ ràng và tạo pull request trước khi merge.
 
 Nếu AI sinh code lỗi hoặc làm hỏng project, em có thể dùng Git để xem lịch sử thay đổi và revert về trạng thái ổn định.
+
+## 12. Kết luận
+
+Qua project này, em đã thực hành các kỹ năng Git/GitHub cơ bản để chuẩn bị cho khóa Vibe Code. Em hiểu rằng Git giúp quản lý thay đổi, bảo vệ code và hỗ trợ rollback khi có lỗi.
