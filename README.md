@@ -115,3 +115,6 @@ Qua project này, em đã thực hành các kỹ năng Git/GitHub cơ bản đ�
 ## Pull Request Practice
 
 Em tạo branch mới để thực hành tạo pull request trên GitHub.
+## Pull Request Practice 2
+
+Em tạo pull request thứ hai để thực hành quy trình làm việc với branch và pull request trên GitHub.
