@@ -110,3 +110,8 @@ Nếu AI sinh code lỗi hoặc làm hỏng project, em có thể dùng Git đ�
 ## 12. Kết luận
 
 Qua project này, em đã thực hành các kỹ năng Git/GitHub cơ bản để chuẩn bị cho khóa Vibe Code. Em hiểu rằng Git giúp quản lý thay đổi, bảo vệ code và hỗ trợ rollback khi có lỗi.
+
+
+## Pull Request Practice
+
+Em tạo branch mới để thực hành tạo pull request trên GitHub.
