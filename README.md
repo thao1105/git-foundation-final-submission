@@ -68,3 +68,14 @@ Các pull request đã tạo:
 
 1. Pull request cập nhật README
 2. Pull request thực hành conflict hoặc Git command list
+## 8. Tình huống conflict
+
+Em đã thực hành conflict bằng cách sửa cùng một dòng trong cùng một file ở hai branch khác nhau.
+
+Cách xử lý:
+
+1. Git báo file bị conflict
+2. Mở file bị conflict
+3. Chọn nội dung đúng cần giữ lại
+4. Xóa các ký hiệu conflict như <<<<<<<, =======, >>>>>>>
+5. Commit lại sau khi xử lý
