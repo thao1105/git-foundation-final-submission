@@ -41,3 +41,15 @@ Các kỹ năng đã thực hành:
 - git checkout: chuyển nhánh
 - git log: xem lịch sử commit
 - git revert: đảo ngược một commit bị lỗi
+## 5. GitHub Flow
+
+GitHub Flow là quy trình làm việc gồm các bước:
+
+1. Tạo branch mới từ main
+2. Thực hiện thay đổi trên branch
+3. Commit thay đổi
+4. Push branch lên GitHub
+5. Tạo pull request
+6. Review và merge vào main
+
+Quy trình này giúp nhóm làm việc an toàn hơn, tránh sửa trực tiếp trên nhánh chính.
