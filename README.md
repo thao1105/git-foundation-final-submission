@@ -29,3 +29,15 @@ Các kỹ năng đã thực hành:
 - Xử lý conflict cơ bản
 - Rollback/revert khi code bị lỗi
 - Hiểu GitHub Flow
+## 4. Danh sách lệnh Git đã sử dụng
+
+- git clone: tải repository từ GitHub về máy
+- git status: kiểm tra trạng thái thay đổi
+- git add: đưa file vào vùng chờ commit
+- git commit: lưu lại thay đổi
+- git push: đẩy code lên GitHub
+- git pull: lấy thay đổi mới nhất từ GitHub
+- git branch: xem hoặc tạo nhánh
+- git checkout: chuyển nhánh
+- git log: xem lịch sử commit
+- git revert: đảo ngược một commit bị lỗi
