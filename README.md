@@ -120,3 +120,15 @@ Em tạo branch mới để thực hành tạo pull request trên GitHub.
 Em tạo pull request thứ hai để thực hành quy trình làm việc với branch và pull request trên GitHub.
 
 Conflict practice line: This line is from conflict demo branch.
+## Tình huống conflict
+
+Em đã tìm hiểu và mô tả một tình huống conflict trong Git.
+
+Conflict xảy ra khi hai branch cùng sửa một dòng trong cùng một file, sau đó merge vào nhau. Khi đó Git không tự quyết định được nên giữ nội dung nào, nên cần người dùng xử lý thủ công.
+
+Ví dụ tình huống:
+
+- Nhánh `main` có dòng trong file `README.md`:
+
+```text
+Git giúp quản lý phiên bản code.
